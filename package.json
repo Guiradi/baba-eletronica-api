@@ -1,0 +1,8 @@
+{
+  "name": "baba-eletronica-api",
+  "version": "1.0.0",
+  "description": "API para o sistema de babá eletrônica com Arduino UNO",
+  "main": "src/server.js",
+  "author": "Guiradi",
+  "license": "MIT"
+}
